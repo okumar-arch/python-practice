@@ -1,0 +1,492 @@
+Received: by 2002:a05:7208:2093:b0:8d:c703:7119 with SMTP id y19csp1535414rby;
+        Mon, 16 Sep 2024 20:04:23 -0700 (PDT)
+Received: from APC01-SG2-obe.outbound.protection.outlook.com (mail-sgaapc01on20728.outbound.protection.outlook.com. [2a01:111:f400:feab::728])
+        by mx.google.com with ESMTPS id d9443c01a7336-207946de28asi71782455ad.299.2024.09.16.20.04.21
+        for <kumarchoudhary9392@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 16 Sep 2024 20:04:22 -0700 (PDT)
+Received: from OS8PR01MB6814.apcprd01.prod.exchangelabs.com
+ (2603:1096:604:2ae::12) by SG2PR01MB4340.apcprd01.prod.exchangelabs.com
+ (2603:1096:4:1b4::6) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7962.24; Tue, 17 Sep
+ 2024 03:04:18 +0000
+Received: from OS8PR01MB6814.apcprd01.prod.exchangelabs.com
+ ([fe80::8280:56c9:a6b7:deeb]) by OS8PR01MB6814.apcprd01.prod.exchangelabs.com
+ ([fe80::8280:56c9:a6b7:deeb%4]) with mapi id 15.20.7962.018; Tue, 17 Sep 2024
+ 03:04:18 +0000
+From: O KUMAR <okumarMCA24@ced.alliance.edu.in>
+To: "kumarchoudhary9392@gmail.com" <kumarchoudhary9392@gmail.com>
+Subject: Fwd: Iris Dataset
+Thread-Topic: Iris Dataset
+Thread-Index: AQHbCGEV+MRDLNinYk+Beu/J3SPfPrJbSz1OgAAAhvg=
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Tue, 17 Sep 2024 03:04:18 +0000
+Message-ID:
+	<OS8PR01MB68148B6BFE226E8BC4A95027A2612@OS8PR01MB6814.apcprd01.prod.exchangelabs.com>
+References:
+	<TYSPR01MB5494AA87EB44ED8AC02EE004C8602@TYSPR01MB5494.apcprd01.prod.exchangelabs.com>
+ <OS8PR01MB6814365C37D94FB92F8942E3A2612@OS8PR01MB6814.apcprd01.prod.exchangelabs.com>
+In-Reply-To:
+	<OS8PR01MB6814365C37D94FB92F8942E3A2612@OS8PR01MB6814.apcprd01.prod.exchangelabs.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+msip_labels:
+x-ms-reactions: allow
+received-spf: pass (google.com: domain of okumarmca24@ced.alliance.edu.in
+ designates 2a01:111:f400:feab::728 as permitted sender)
+ client-ip=2a01:111:f400:feab::728;
+x-ms-publictraffictype: Email
+Content-Type: multipart/mixed;
+	boundary="_005_OS8PR01MB68148B6BFE226E8BC4A95027A2612OS8PR01MB6814apcp_"
+MIME-Version: 1.0
+
+--_005_OS8PR01MB68148B6BFE226E8BC4A95027A2612OS8PR01MB6814apcp_
+Content-Type: multipart/alternative;
+	boundary="_000_OS8PR01MB68148B6BFE226E8BC4A95027A2612OS8PR01MB6814apcp_"
+
+--_000_OS8PR01MB68148B6BFE226E8BC4A95027A2612OS8PR01MB6814apcp_
+Content-Type: text/plain; charset="us-ascii"
+
+
+
+Get Outlook for Android<https://aka.ms/AAb9ysg>
+________________________________
+From: O KUMAR <okumarMCA24@ced.alliance.edu.in>
+Sent: Tuesday, September 17, 2024 8:32:23 AM
+To: kumarchoudhary9392@gmail.com <kumarchoudhary9392@gmail.com>
+Subject: Fwd: Iris Dataset
+
+
+
+Get Outlook for Android<https://aka.ms/AAb9ysg>
+________________________________
+From: Gomathy V <TEM174_BCA1@alliance.edu.in>
+Sent: Monday, September 16, 2024 11:27:23 PM
+To: SEC 1 MCA 2024 <Sec1.MCA2024@ced.alliance.edu.in>; SEC 2 MCA 2024 <sec2.MCA2024@ced.alliance.edu.in>
+Subject: Iris Dataset
+
+Dear Students,
+
+Please find the Iris dataset attached.
+
+Regards,
+Gomathy V
+Faculty - Department of Computer Applications
+Alliance College of Engineering & Design
+Alliance University
+E: TEM174_BCA1@alliance.edu.in<mailto:TEM174_BCA1@alliance.edu.in>
+P: 080-46199156
+W: www.alliance.edu.in<http://www.alliance.edu.in/>
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- DISCLAIMER: The information contained in this electronic message and any attachments to this message are intended for the exclusive use of the addressee(s) and may contain proprietary, confidential or privileged information. If you are not the intended recipient, you should not disseminate, distribute or copy this e-mail. Please notify the sender immediately and destroy all copies of this message and any attachments. Computer viruses can be transmitted via email. The recipient should check this email and any attachments for the presence of viruses. ALLIANCE University accepts no liability whatsoever for any damage caused by any virus transmitted by this email.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- DISCLAIMER: The information contained in this electronic message and any attachments to this message are intended for the exclusive use of the addressee(s) and may contain proprietary, confidential or privileged information. If you are not the intended recipient, you should not disseminate, distribute or copy this e-mail. Please notify the sender immediately and destroy all copies of this message and any attachments. Computer viruses can be transmitted via email. The recipient should check this email and any attachments for the presence of viruses. ALLIANCE University accepts no liability whatsoever for any damage caused by any virus transmitted by this email.
+
+--_000_OS8PR01MB68148B6BFE226E8BC4A95027A2612OS8PR01MB6814apcp_
+Content-Type: text/html; charset="us-ascii"
+Content-ID: <489393A22D75854ABA3959943DF09A07@1>
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+</head>
+<body>
+<div><br>
+</div>
+<div id="ms-outlook-mobile-signature" dir="auto">
+<div><br>
+</div>
+Get <a href="https://aka.ms/AAb9ysg">Outlook for Android</a></div>
+<hr style="display:inline-block;width:98%" tabindex="-1">
+<div id="divRplyFwdMsg" dir="ltr"><font face="Calibri, sans-serif" style="font-size:11pt" color="#000000"><b>From:</b> O KUMAR &lt;okumarMCA24@ced.alliance.edu.in&gt;<br>
+<b>Sent:</b> Tuesday, September 17, 2024 8:32:23 AM<br>
+<b>To:</b> kumarchoudhary9392@gmail.com &lt;kumarchoudhary9392@gmail.com&gt;<br>
+<b>Subject:</b> Fwd: Iris Dataset</font>
+<div>&nbsp;</div>
+</div>
+<div>
+<div><br>
+</div>
+<div id="x_ms-outlook-mobile-signature" dir="auto">
+<div><br>
+</div>
+Get <a href="https://aka.ms/AAb9ysg">Outlook for Android</a></div>
+<hr tabindex="-1" style="display:inline-block; width:98%">
+<div id="x_divRplyFwdMsg" dir="ltr"><font face="Calibri, sans-serif" color="#000000" style="font-size:11pt"><b>From:</b> Gomathy V &lt;TEM174_BCA1@alliance.edu.in&gt;<br>
+<b>Sent:</b> Monday, September 16, 2024 11:27:23 PM<br>
+<b>To:</b> SEC 1 MCA 2024 &lt;Sec1.MCA2024@ced.alliance.edu.in&gt;; SEC 2 MCA 2024 &lt;sec2.MCA2024@ced.alliance.edu.in&gt;<br>
+<b>Subject:</b> Iris Dataset</font>
+<div>&nbsp;</div>
+</div>
+<style type="text/css" style="display:none">
+<!--
+p
+	{margin-top:0;
+	margin-bottom:0}
+-->
+</style>
+<div dir="ltr">
+<div class="x_x_elementToProof" style="font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">
+Dear Students,</div>
+<div class="x_x_elementToProof" style="font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">
+<br>
+</div>
+<div class="x_x_elementToProof" style="font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">
+Please find the Iris dataset attached.</div>
+<div class="x_x_elementToProof" style="font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">
+<br>
+</div>
+<div class="x_x_elementToProof" style="font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">
+Regards,</div>
+<div id="x_x_Signature">
+<div style="font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">
+<b>Gomathy V</b></div>
+<div style="font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">
+Faculty - Department of Computer Applications</div>
+<div style="font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">
+Alliance College of Engineering &amp; Design</div>
+<div style="font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">
+Alliance University</div>
+<div style="font-family:aptos,sans-serif; font-size:16px; color:rgb(0,0,0)"><span style="background-color:rgb(255,255,255)">E:
+<a href="mailto:TEM174_BCA1@alliance.edu.in" target="_blank" rel="noopener noreferrer" style="margin:0px; background-color:rgb(255,255,255); text-align:left">
+TEM174_BCA1@alliance.edu.in</a></span></div>
+<div style="font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)">
+P: 080-46199156</div>
+<div style="font-family:&quot;franklin gothic book&quot;,sans-serif; font-size:10pt"><span style="color:rgb(247,117,31); background-color:rgb(255,255,255)">W:
+</span><span style="color:rgb(5,99,193); background-color:rgb(255,255,255)"><a href="http://www.alliance.edu.in/" target="_blank" rel="noopener noreferrer" data-link-id="1" style="color:rgb(5,99,193)">www.alliance.edu.in</a></span></div>
+<div style="font-family:cambria,serif; font-size:14.6667px; color:rgb(51,51,51)">
+<span style="background-color:rgb(255,255,255)"><br>
+</span></div>
+</div>
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- DISCLAIMER:
+ The information contained in this electronic message and any attachments to this message are intended for the exclusive use of the addressee(s) and may contain proprietary, confidential or privileged information. If you are not the intended recipient, you
+ should not disseminate, distribute or copy this e-mail. Please notify the sender immediately and destroy all copies of this message and any attachments. Computer viruses can be transmitted via email. The recipient should check this email and any attachments
+ for the presence of viruses. ALLIANCE University accepts no liability whatsoever for any damage caused by any virus transmitted by this email.
+</div>
+</div>
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- DISCLAIMER:
+ The information contained in this electronic message and any attachments to this message are intended for the exclusive use of the addressee(s) and may contain proprietary, confidential or privileged information. If you are not the intended recipient, you
+ should not disseminate, distribute or copy this e-mail. Please notify the sender immediately and destroy all copies of this message and any attachments. Computer viruses can be transmitted via email. The recipient should check this email and any attachments
+ for the presence of viruses. ALLIANCE University accepts no liability whatsoever for any damage caused by any virus transmitted by this email.
+</body>
+</html>
+
+--_000_OS8PR01MB68148B6BFE226E8BC4A95027A2612OS8PR01MB6814apcp_--
+
+--_005_OS8PR01MB68148B6BFE226E8BC4A95027A2612OS8PR01MB6814apcp_
+Content-Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;
+	name="iris_data.xlsx"
+Content-Description: iris_data.xlsx
+Content-Disposition: attachment; filename="iris_data.xlsx"; size=12927;
+	creation-date="Mon, 16 Sep 2024 17:57:09 GMT";
+	modification-date="Tue, 17 Sep 2024 03:05:36 GMT"
+Content-ID: <A55E8E02B127074EBF044672F2209B6C@1>
+Content-Transfer-Encoding: base64
+
+UEsDBBQABgAIAAAAIQBi7p1oXgEAAJAEAAATAAgCW0NvbnRlbnRfVHlwZXNdLnhtbCCiBAIooAAC
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACs
+lMtOwzAQRfdI/EPkLUrcskAINe2CxxIqUT7AxJPGqmNbnmlp/56J+xBCoRVqN7ESz9x7MvHNaLJu
+bbaCiMa7UgyLgcjAVV4bNy/Fx+wlvxcZknJaWe+gFBtAMRlfX41mmwCYcbfDUjRE4UFKrBpoFRY+
+gOOd2sdWEd/GuQyqWqg5yNvB4E5W3hE4yqnTEOPRE9RqaSl7XvPjLUkEiyJ73BZ2XqVQIVhTKWJS
+uXL6l0u+cyi4M9VgYwLeMIaQvQ7dzt8Gu743Hk00GrKpivSqWsaQayu/fFx8er8ojov0UPq6NhVo
+Xy1bnkCBIYLS2ABQa4u0Fq0ybs99xD8Vo0zL8MIg3fsl4RMcxN8bZLqej5BkThgibSzgpceeRE85
+NyqCfqfIybg4wE/tYxx8bqbRB+QERfj/FPYR6brzwEIQycAhJH2H7eDI6Tt77NDlW4Pu8ZbpfzL+
+BgAA//8DAFBLAwQUAAYACAAAACEAtVUwI/QAAABMAgAACwAIAl9yZWxzLy5yZWxzIKIEAiigAAIA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKyS
+TU/DMAyG70j8h8j31d2QEEJLd0FIuyFUfoBJ3A+1jaMkG92/JxwQVBqDA0d/vX78ytvdPI3qyCH2
+4jSsixIUOyO2d62Gl/pxdQcqJnKWRnGs4cQRdtX11faZR0p5KHa9jyqruKihS8nfI0bT8USxEM8u
+VxoJE6UchhY9mYFaxk1Z3mL4rgHVQlPtrYawtzeg6pPPm3/XlqbpDT+IOUzs0pkVyHNiZ9mufMhs
+IfX5GlVTaDlpsGKecjoieV9kbMDzRJu/E/18LU6cyFIiNBL4Ms9HxyWg9X9atDTxy515xDcJw6vI
+8MmCix+o3gEAAP//AwBQSwMEFAAGAAgAAAAhAIIQmkBuAwAAawgAAA8AAAB4bC93b3JrYm9vay54
+bWysVWtP4zgU/b7S/oco30PeTxFGeWqRACHowhekyiQOsUjiruPQIjT/fa/dpsB0NOoyi4odP3J8
+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
+bFBLBQYAAAAACgAKAIACAAB9LgAAAAA=
+
+--_005_OS8PR01MB68148B6BFE226E8BC4A95027A2612OS8PR01MB6814apcp_
+Content-Type: text/csv; name="iris_data.csv"
+Content-Description: iris_data.csv
+Content-Disposition: attachment; filename="iris_data.csv"; size=4253;
+	creation-date="Mon, 16 Sep 2024 17:57:09 GMT";
+	modification-date="Tue, 17 Sep 2024 03:05:36 GMT"
+Content-ID: <AB4D366E710A4A47BA8F5965AE114541@1>
+Content-Transfer-Encoding: base64
+
+c2VwYWxfbGVuZ3RoLHNlcGFsX3dpZHRoLHBldGFsX2xlbmd0aCxwZXRhbF93aWR0aCxzcGVjaWVz
+DQo1LjEsMy41LDEuNCwwLjIsc2V0b3NhDQo0LjksMy4wLDEuNCwwLjIsc2V0b3NhDQo0LjcsMy4y
+LDEuMywwLjIsc2V0b3NhDQo0LjYsMy4xLDEuNSwwLjIsc2V0b3NhDQo1LjAsMy42LDEuNCwwLjIs
+c2V0b3NhDQo1LjQsMy45LDEuNywwLjQsc2V0b3NhDQo0LjYsMy40LDEuNCwwLjMsc2V0b3NhDQo1
+LjAsMy40LDEuNSwwLjIsc2V0b3NhDQo0LjQsMi45LDEuNCwwLjIsc2V0b3NhDQo0LjksMy4xLDEu
+NSwwLjEsc2V0b3NhDQo1LjQsMy43LDEuNSwwLjIsc2V0b3NhDQo0LjgsMy40LDEuNiwwLjIsc2V0
+b3NhDQo0LjgsMy4wLDEuNCwwLjEsc2V0b3NhDQo0LjMsMy4wLDEuMSwwLjEsc2V0b3NhDQo1Ljgs
+NC4wLDEuMiwwLjIsc2V0b3NhDQo1LjcsNC40LDEuNSwwLjQsc2V0b3NhDQo1LjQsMy45LDEuMyww
+LjQsc2V0b3NhDQo1LjEsMy41LDEuNCwwLjMsc2V0b3NhDQo1LjcsMy44LDEuNywwLjMsc2V0b3Nh
+DQo1LjEsMy44LDEuNSwwLjMsc2V0b3NhDQo1LjQsMy40LDEuNywwLjIsc2V0b3NhDQo1LjEsMy43
+LDEuNSwwLjQsc2V0b3NhDQo0LjYsMy42LDEuMCwwLjIsc2V0b3NhDQo1LjEsMy4zLDEuNywwLjUs
+c2V0b3NhDQo0LjgsMy40LDEuOSwwLjIsc2V0b3NhDQo1LjAsMy4wLDEuNiwwLjIsc2V0b3NhDQo1
+LjAsMy40LDEuNiwwLjQsc2V0b3NhDQo1LjIsMy41LDEuNSwwLjIsc2V0b3NhDQo1LjIsMy40LDEu
+NCwwLjIsc2V0b3NhDQo0LjcsMy4yLDEuNiwwLjIsc2V0b3NhDQo0LjgsMy4xLDEuNiwwLjIsc2V0
+b3NhDQo1LjQsMy40LDEuNSwwLjQsc2V0b3NhDQo1LjIsNC4xLDEuNSwwLjEsc2V0b3NhDQo1LjUs
+NC4yLDEuNCwwLjIsc2V0b3NhDQo0LjksMy4xLDEuNSwwLjEsc2V0b3NhDQo1LjAsMy4yLDEuMiww
+LjIsc2V0b3NhDQo1LjUsMy41LDEuMywwLjIsc2V0b3NhDQo0LjksMy4xLDEuNSwwLjEsc2V0b3Nh
+DQo0LjQsMy4wLDEuMywwLjIsc2V0b3NhDQo1LjEsMy40LDEuNSwwLjIsc2V0b3NhDQo1LjAsMy41
+LDEuMywwLjMsc2V0b3NhDQo0LjUsMi4zLDEuMywwLjMsc2V0b3NhDQo0LjQsMy4yLDEuMywwLjIs
+c2V0b3NhDQo1LjAsMy41LDEuNiwwLjYsc2V0b3NhDQo1LjEsMy44LDEuOSwwLjQsc2V0b3NhDQo0
+LjgsMy4wLDEuNCwwLjMsc2V0b3NhDQo1LjEsMy44LDEuNiwwLjIsc2V0b3NhDQo0LjYsMy4yLDEu
+NCwwLjIsc2V0b3NhDQo1LjMsMy43LDEuNSwwLjIsc2V0b3NhDQo1LjAsMy4zLDEuNCwwLjIsc2V0
+b3NhDQo3LjAsMy4yLDQuNywxLjQsdmVyc2ljb2xvcg0KNi40LDMuMiw0LjUsMS41LHZlcnNpY29s
+b3INCjYuOSwzLjEsNC45LDEuNSx2ZXJzaWNvbG9yDQo1LjUsMi4zLDQuMCwxLjMsdmVyc2ljb2xv
+cg0KNi41LDIuOCw0LjYsMS41LHZlcnNpY29sb3INCjUuNywyLjgsNC41LDEuMyx2ZXJzaWNvbG9y
+DQo2LjMsMy4zLDQuNywxLjYsdmVyc2ljb2xvcg0KNC45LDIuNCwzLjMsMS4wLHZlcnNpY29sb3IN
+CjYuNiwyLjksNC42LDEuMyx2ZXJzaWNvbG9yDQo1LjIsMi43LDMuOSwxLjQsdmVyc2ljb2xvcg0K
+NS4wLDIuMCwzLjUsMS4wLHZlcnNpY29sb3INCjUuOSwzLjAsNC4yLDEuNSx2ZXJzaWNvbG9yDQo2
+LjAsMi4yLDQuMCwxLjAsdmVyc2ljb2xvcg0KNi4xLDIuOSw0LjcsMS40LHZlcnNpY29sb3INCjUu
+NiwyLjksMy42LDEuMyx2ZXJzaWNvbG9yDQo2LjcsMy4xLDQuNCwxLjQsdmVyc2ljb2xvcg0KNS42
+LDMuMCw0LjUsMS41LHZlcnNpY29sb3INCjUuOCwyLjcsNC4xLDEuMCx2ZXJzaWNvbG9yDQo2LjIs
+Mi4yLDQuNSwxLjUsdmVyc2ljb2xvcg0KNS42LDIuNSwzLjksMS4xLHZlcnNpY29sb3INCjUuOSwz
+LjIsNC44LDEuOCx2ZXJzaWNvbG9yDQo2LjEsMi44LDQuMCwxLjMsdmVyc2ljb2xvcg0KNi4zLDIu
+NSw0LjksMS41LHZlcnNpY29sb3INCjYuMSwyLjgsNC43LDEuMix2ZXJzaWNvbG9yDQo2LjQsMi45
+LDQuMywxLjMsdmVyc2ljb2xvcg0KNi42LDMuMCw0LjQsMS40LHZlcnNpY29sb3INCjYuOCwyLjgs
+NC44LDEuNCx2ZXJzaWNvbG9yDQo2LjcsMy4wLDUuMCwxLjcsdmVyc2ljb2xvcg0KNi4wLDIuOSw0
+LjUsMS41LHZlcnNpY29sb3INCjUuNywyLjYsMy41LDEuMCx2ZXJzaWNvbG9yDQo1LjUsMi40LDMu
+OCwxLjEsdmVyc2ljb2xvcg0KNS41LDIuNCwzLjcsMS4wLHZlcnNpY29sb3INCjUuOCwyLjcsMy45
+LDEuMix2ZXJzaWNvbG9yDQo2LjAsMi43LDUuMSwxLjYsdmVyc2ljb2xvcg0KNS40LDMuMCw0LjUs
+MS41LHZlcnNpY29sb3INCjYuMCwzLjQsNC41LDEuNix2ZXJzaWNvbG9yDQo2LjcsMy4xLDQuNywx
+LjUsdmVyc2ljb2xvcg0KNi4zLDIuMyw0LjQsMS4zLHZlcnNpY29sb3INCjUuNiwzLjAsNC4xLDEu
+Myx2ZXJzaWNvbG9yDQo1LjUsMi41LDQuMCwxLjMsdmVyc2ljb2xvcg0KNS41LDIuNiw0LjQsMS4y
+LHZlcnNpY29sb3INCjYuMSwzLjAsNC42LDEuNCx2ZXJzaWNvbG9yDQo1LjgsMi42LDQuMCwxLjIs
+dmVyc2ljb2xvcg0KNS4wLDIuMywzLjMsMS4wLHZlcnNpY29sb3INCjUuNiwyLjcsNC4yLDEuMyx2
+ZXJzaWNvbG9yDQo1LjcsMy4wLDQuMiwxLjIsdmVyc2ljb2xvcg0KNS43LDIuOSw0LjIsMS4zLHZl
+cnNpY29sb3INCjYuMiwyLjksNC4zLDEuMyx2ZXJzaWNvbG9yDQo1LjEsMi41LDMuMCwxLjEsdmVy
+c2ljb2xvcg0KNS43LDIuOCw0LjEsMS4zLHZlcnNpY29sb3INCjYuMywzLjMsNi4wLDIuNSx2aXJn
+aW5pY2ENCjUuOCwyLjcsNS4xLDEuOSx2aXJnaW5pY2ENCjcuMSwzLjAsNS45LDIuMSx2aXJnaW5p
+Y2ENCjYuMywyLjksNS42LDEuOCx2aXJnaW5pY2ENCjYuNSwzLjAsNS44LDIuMix2aXJnaW5pY2EN
+CjcuNiwzLjAsNi42LDIuMSx2aXJnaW5pY2ENCjQuOSwyLjUsNC41LDEuNyx2aXJnaW5pY2ENCjcu
+MywyLjksNi4zLDEuOCx2aXJnaW5pY2ENCjYuNywyLjUsNS44LDEuOCx2aXJnaW5pY2ENCjcuMiwz
+LjYsNi4xLDIuNSx2aXJnaW5pY2ENCjYuNSwzLjIsNS4xLDIuMCx2aXJnaW5pY2ENCjYuNCwyLjcs
+NS4zLDEuOSx2aXJnaW5pY2ENCjYuOCwzLjAsNS41LDIuMSx2aXJnaW5pY2ENCjUuNywyLjUsNS4w
+LDIuMCx2aXJnaW5pY2ENCjUuOCwyLjgsNS4xLDIuNCx2aXJnaW5pY2ENCjYuNCwzLjIsNS4zLDIu
+Myx2aXJnaW5pY2ENCjYuNSwzLjAsNS41LDEuOCx2aXJnaW5pY2ENCjcuNywzLjgsNi43LDIuMix2
+aXJnaW5pY2ENCjcuNywyLjYsNi45LDIuMyx2aXJnaW5pY2ENCjYuMCwyLjIsNS4wLDEuNSx2aXJn
+aW5pY2ENCjYuOSwzLjIsNS43LDIuMyx2aXJnaW5pY2ENCjUuNiwyLjgsNC45LDIuMCx2aXJnaW5p
+Y2ENCjcuNywyLjgsNi43LDIuMCx2aXJnaW5pY2ENCjYuMywyLjcsNC45LDEuOCx2aXJnaW5pY2EN
+CjYuNywzLjMsNS43LDIuMSx2aXJnaW5pY2ENCjcuMiwzLjIsNi4wLDEuOCx2aXJnaW5pY2ENCjYu
+MiwyLjgsNC44LDEuOCx2aXJnaW5pY2ENCjYuMSwzLjAsNC45LDEuOCx2aXJnaW5pY2ENCjYuNCwy
+LjgsNS42LDIuMSx2aXJnaW5pY2ENCjcuMiwzLjAsNS44LDEuNix2aXJnaW5pY2ENCjcuNCwyLjgs
+Ni4xLDEuOSx2aXJnaW5pY2ENCjcuOSwzLjgsNi40LDIuMCx2aXJnaW5pY2ENCjYuNCwyLjgsNS42
+LDIuMix2aXJnaW5pY2ENCjYuMywyLjgsNS4xLDEuNSx2aXJnaW5pY2ENCjYuMSwyLjYsNS42LDEu
+NCx2aXJnaW5pY2ENCjcuNywzLjAsNi4xLDIuMyx2aXJnaW5pY2ENCjYuMywzLjQsNS42LDIuNCx2
+aXJnaW5pY2ENCjYuNCwzLjEsNS41LDEuOCx2aXJnaW5pY2ENCjYuMCwzLjAsNC44LDEuOCx2aXJn
+aW5pY2ENCjYuOSwzLjEsNS40LDIuMSx2aXJnaW5pY2ENCjYuNywzLjEsNS42LDIuNCx2aXJnaW5p
+Y2ENCjYuOSwzLjEsNS4xLDIuMyx2aXJnaW5pY2ENCjUuOCwyLjcsNS4xLDEuOSx2aXJnaW5pY2EN
+CjYuOCwzLjIsNS45LDIuMyx2aXJnaW5pY2ENCjYuNywzLjMsNS43LDIuNSx2aXJnaW5pY2ENCjYu
+NywzLjAsNS4yLDIuMyx2aXJnaW5pY2ENCjYuMywyLjUsNS4wLDEuOSx2aXJnaW5pY2ENCjYuNSwz
+LjAsNS4yLDIuMCx2aXJnaW5pY2ENCjYuMiwzLjQsNS40LDIuMyx2aXJnaW5pY2ENCjUuOSwzLjAs
+NS4xLDEuOCx2aXJnaW5pY2ENCg==
+
+--_005_OS8PR01MB68148B6BFE226E8BC4A95027A2612OS8PR01MB6814apcp_--
